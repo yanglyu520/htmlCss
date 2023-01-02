@@ -3,6 +3,12 @@
 ## html
 1. table
 2. form
-3. Html signup page
+3. list
+4. Html signup page
 
 ![signup final html view](./pictures/signup.png)
+
+## CSS
+1. Selectors
+2. font
+3. color
