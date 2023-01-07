@@ -21,15 +21,15 @@ div.eight-ball,div.answer {
 div.eight-ball {
   background-color: rgb(127, 149, 220);
   border-radius: 50%;
-  width: 300px;
-  height: 300px;
+  width: 400px;
+  height: 400px;
   margin: 0 auto;
   font-weight: 400;
   text-align: center;
 }
 
 div.answer {
-  background-color: rgb(191, 232, 104);
+  background-color: rgb(200, 224, 149);
   border-radius: 50%;
   width: 50%;
   height: 50%;
