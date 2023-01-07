@@ -5,13 +5,13 @@
 2. form
 3. list
 4. Html signup page
-
-![signup final html view](./pictures/signup.png)
+---
+<img src="./pictures/signup.png" width="400">
 
 ## CSS
 1. Selectors
 2. font
 3. color
-
+---
 ## 8 Ball Project
-![8 Ball Project](./pictures/8BallProject.png)
+<img src="./pictures/8BallProject.png" width="400">
