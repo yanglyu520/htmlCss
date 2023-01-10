@@ -15,3 +15,4 @@
 ---
 ## 8 Ball Project
 <img src="./pictures/8BallProject.png" width="400">
+<img src="./pictures/sidebar.png" width="300">
